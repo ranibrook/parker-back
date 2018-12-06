@@ -1,0 +1,62 @@
+[
+    {
+        
+        "location" : {
+            "lat" : 32.055401,
+            "lng" : 34.759499
+        },
+        "address" : "basel 32, Tel Aviv",
+        "occupiedUntil" : "0",
+        "reserverId" : "",
+        "ownerId" : "5b583081f6d632e56ebd6a43",
+        "price" : 28,
+        "amenities" : {
+            "isCovered" : true,
+            "isPaved" : false,
+            "isForDisable" : false
+        },
+        "description" : "One of the most popular spots for parking - available during the days at a killer price",
+        "createdAt" : 1532502809,
+        "imageURL" : "https://media.phillyvoice.com/media/images/071516_tasker_broad.2e16d0ba.fill-735x490.png"
+    },
+    {
+        
+        "location" : {
+            "lat" : "32.109333",
+            "lng" : "34.855499"
+        },
+        "address" : "Sokolov 87, Tel Aviv",
+        "occupiedUntil" : "0",
+        "reserverId" : "",
+        "ownerId" : "5b583081f6d632e56ebd6a44",
+        "price" : "$20",
+        "amenities" : {
+            "isCovered" : true,
+            "isPaved" : false,
+            "isForDisable" : true
+        },
+        "description" : "Daily parking in the old north of Tel Aviv. Located just few minutes walking from all the main cultural places of TLV",
+        "createdAt" : 1532502489,
+        "imageURL" : "https://media.phillyvoice.com/media/images/071516_tasker_broad.2e16d0ba.fill-735x490.png"
+    },
+    {
+        "location" : {
+            "lat" : "32.138621",
+            "lng" : "34.835372"
+        },
+        "address" : "Sokolov 1, Tel Aviv",
+        "occupiedUntil" : "0",
+        "reserverId" : "5b583081f6d632e56ebd6a44",
+        "ownerId" : "5b583081f6d632e56ebd6a45",
+        "price" : "$25",
+        "amenities" : {
+            "isCovered" : true,
+            "isPaved" : false,
+            "isForDisable" : true
+        },
+        "description" : "Daily parking in the old north of Tel Aviv. Located just few minutes walking from all the main cultural places of TLV",
+        "createdAt" : 1532502489,
+        "imageURL" : "https://media.phillyvoice.com/media/images/071516_tasker_broad.2e16d0ba.fill-735x490.png"
+    }
+
+]
